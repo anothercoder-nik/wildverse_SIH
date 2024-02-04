@@ -1,0 +1,20 @@
+{
+    "short_name": "WildVerse",
+    "name": "WildVerse",
+    "icons": [
+      {
+        "src": "app-logo.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "app-logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#000000",
+    "display": "standalone",
+    "theme_color": "#ff0000"
+  }
